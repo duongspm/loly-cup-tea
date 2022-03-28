@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Loly Cup Tea
-          Loly Cup Tea
         </a>
       </header>
     </div>
