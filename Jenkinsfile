@@ -18,6 +18,10 @@ pipeline{
         steps
         {
           echo 'Deplying the application ...'
+          script{
+            def test = 2 + 2 > 5 ? 'ngầu' : 'Không ngầu'
+            echo test
+          }
         }
       }
 
